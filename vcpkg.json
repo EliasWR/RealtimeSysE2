@@ -1,0 +1,8 @@
+{
+  "dependencies": [
+    "fmt",
+    "catch2",
+    "nlohmann-json",
+    "opencv"
+  ]
+}
